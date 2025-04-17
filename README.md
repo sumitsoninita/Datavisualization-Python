@@ -41,20 +41,20 @@ This project is a comprehensive data analysis of a retail orders dataset sourced
 
 ### 1. Monthly Sales Trend
 
-![Monthly Sales Trend](Figure1.png)
-
----
+<div align="center">
+  <img src="Figure 1.png" width="700"/>
+</div>
 
 ### 2. Top 10 Cities by Sales
 
-![Top 10 Cities by Sales]( Figure2.png)
-
----
+<div align="center">
+  <img src="Figure 2.png" width="700"/>
+</div>
 
 ### 3. Sales by Region
-
-![Sales by Region](Figure3.png)
-
+<div align="center">
+  <img src="Figure 3.png" width="700"/>
+</div>
 ---
 
 ## 🚀 How to Run
