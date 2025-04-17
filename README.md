@@ -47,7 +47,7 @@ This project is a comprehensive data analysis of a retail orders dataset sourced
 
 ### 2. Top 10 Cities by Sales
 
-![Top 10 Cities by Sales](Figure2.png)
+![Top 10 Cities by Sales]( Figure2.png)
 
 ---
 
